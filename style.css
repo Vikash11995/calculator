@@ -9,7 +9,7 @@ width: 100%;
     
 align-content: center;
     justify-content: center;
-    background: linear-gradient(5deg,#0a0a0a,#3a3a3a);
+    background: linear-gradient(#0a0a0a,#3a3a3a);
     align-items: center;
 }
 .calculator {
